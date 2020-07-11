@@ -1,7 +1,8 @@
 # Conceitos ReactJS
 ## Componentização
 -> Sempre que vamos fazer um component, temos que importar o React.
-  -> Exemplo de component:
+
+-> Exemplo de component:
 
 ```jsx
 import React, { ButtonHTMLAttributes } from 'react';
