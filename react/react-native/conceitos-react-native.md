@@ -23,16 +23,16 @@ do Android e iOS precisa estar presente na nossa aplicação.
 ## Expo
 SDK com um conjunto de funcionalidades prontas para usar, com ele não há a
 necessidade de configurar um emulador.
- #### -> Problemas:
-   -> O Expo tem uma limitação do controle de código nativo, então sempre que
+ #### - Problemas:
+   - O Expo tem uma limitação do controle de código nativo, então sempre que
    vamos mexer com código nativo, o Expo não poderá ser usado. Várias bibliotecas
    não têm suporte para o Expo, mas o Expo liberou suas funcionalidades para serem
    utilizadas em aplicações sem ele.
 
 ## Conexão com API  pelo axios
-  -> iOS com emulador: localhost
-  -> iOS com físico: IP da máquina
-  -> Android com emulador: `adb reverse tcp:3333 tcp:3333`
+  - iOS com emulador: localhost
+  - iOS com físico: IP da máquina
+  - Android com emulador: `adb reverse tcp:3333 tcp:3333`
   > Rodar no terminal
   > Com isso, a aplicação consegue usar o localhost ou o IP
-  -> Android com dispositivo físico: IP da máquina.
+  - Android com dispositivo físico: IP da máquina.

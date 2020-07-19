@@ -17,7 +17,7 @@ Com o TypeScript, o editor consegue saber exatamente os dados que determinado
 objeto possuei e oferecer inteligência à IDE.
 
 ## Quando adicionar tipagem?
-  -> Quando algum parâmetro precisar de uma tipagem a mais, o próprio editor irá
+  - Quando algum parâmetro precisar de uma tipagem a mais, o próprio editor irá
   pedir.
   > O VS Code tem uma integração MUITO boa para projetos em JavaScript e não é
   > diferente com o TypeScript. Enquanto nós digitamos o código, ele já o

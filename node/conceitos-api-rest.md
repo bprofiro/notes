@@ -11,10 +11,10 @@ padronizado, utilizando a mesma estrutura(JSON) para web/mobile/API pública.
 ## Métodos HTTP:
 As  rotas utilizadam métodos HTTP como GET, POST, PUT, DELETE. Não são os únicos,
 mas são os mais usados.
- - GET -> Utilizado para listar dados;
- - POST -> Utilizado para criar dados;
- - PUT -> Utilizado para atualizar dados;
- - DELETE -> Utilizado para deletar dados;
+ - GET - Utilizado para listar dados;
+ - POST - Utilizado para criar dados;
+ - PUT - Utilizado para atualizar dados;
+ - DELETE - Utilizado para deletar dados;
 
 ## HTTP Code:
 Toda resposta que o nosso backend retorna tem um possui HTTP Code. É um código
@@ -29,17 +29,17 @@ de 3 dígitos que sinaliza o tipo de resposta que foi retornado.
 | 5xx      | Server Error  | 500: Internal Server Error         |
 
 ## Parâmetros:
--> Query Params: filtros e paginação;
--> Request Body: conteúdo na hora de criar ou editar um recurso (JSON);
--> Route Params: identificar recursos;
+- Query Params: filtros e paginação;
+- Request Body: conteúdo na hora de criar ou editar um recurso (JSON);
+- Route Params: identificar recursos;
 > Mais utilizado quando queremos selecionar um dado para atualiza-lo ou deleta-lo.
 
 ## Middleware:
 Interceptador de requisições que interrompe totalmente a requisição ou altera
 dados da requisição.
-  -> Todo o express é baseado em middleware.
+  - Todo o express é baseado em middleware.
 
- -> Exemplo de Middleware:
+ - Exemplo de Middleware:
 ```js
 /*
 * Esse middleware recebe um id da rota e faz uma verificação se ele é um id
