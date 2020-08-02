@@ -4,7 +4,7 @@ Independente da sua área de atuação, a comunicação é algo fundamental em s
 
 Imagine os diversos problemas que poderiam ser evitados se os envolvidos tivessem se comunicado de forma clara e acertiva.
 
-  >Ou até mesmo aquele e-mail de trabalho que foi enviado com o intuito de passar uma informação simples e acabou se tornando uma thread pois não houve clareza o suficiente.
+  > Ou até mesmo aquele e-mail de trabalho que foi enviado com o intuito de passar uma informação simples e acabou se tornando uma thread pois não houve clareza o suficiente.
 
 E se, assim como eu, você já teve ou ainda tem problemas em transpor em palavras suas ideias, acredito que esse artigo seja pra você.
 
@@ -26,6 +26,18 @@ A inspiração é importante, mas ela é importante apenas para se ter o que esc
 
   > Portanto, se você tiver uma boa ideia, trate de escreve-la antes que ela vá embora, okay?
 
+## Construindo sua mentalidade de escritor
+
+Pra começar a escrever, há o conselho número um, a maior regra de todas: leia. Leia muito, leia bastante, leia o tanto quanto puder. Isso ajuda a ganhar vocabulário, desenvolver referências de forma e conteúdo, além de contribuir para o entendimento do padrão da língua.
+
+Além disso, sempre pense nas suas motivações a começara escrever. Você quer apenas ter um registro? Adquirir mais conhecimento e entender melhor o conteúdo? Ajudar alguma comunidade com o seu ponto na história? 
+
+  > Motive-se, o exercício da escrita precisa ser diário, mas isso não significa que precisa ser para a vida toda!
+
+
+Portanto, tente desenvolver essa habilidade aos poucos. Leia tanto quanto puder, escreva sobre o seu dia ou sobre algum conteúdo que aprendeu, se desafie: não precisa escrever 15 horas por dia, o segredo para desenvolver uma habilidade está na constância e não na quantidade, então tenha o seu tempo e se esforce.
+
+Made with 💜 by Brenda.
 
 
 
