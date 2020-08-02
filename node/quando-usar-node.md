@@ -94,5 +94,5 @@ Se a sua aplicação possuir uma computação intensiva da CPU, então o Node n�
 
 Por hoje é isso que eu gostaria de passar para vocês, se pensarem em outras ocasiões em que o Node seria perfeito, por favor, abra uma Issue para conversarmos mais sobre, eu adoraria conhecer outros casos.
 
-
+----
 Made with 💜 by Brenda.

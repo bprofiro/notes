@@ -37,6 +37,7 @@ Além disso, sempre pense nas suas motivações a começara escrever. Você quer
 
 Portanto, tente desenvolver essa habilidade aos poucos. Leia tanto quanto puder, escreva sobre o seu dia ou sobre algum conteúdo que aprendeu, se desafie: não precisa escrever 15 horas por dia, o segredo para desenvolver uma habilidade está na constância e não na quantidade, então tenha o seu tempo e se esforce.
 
+----
 Made with 💜 by Brenda.
 
 

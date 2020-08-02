@@ -122,4 +122,5 @@ Faça uma alteração no seu arquivo, como por exemplo o texto e execute novamen
 
 Quando fazemos o publish, nossa aplicação fica "hospedada" no servidor do Expo. Então, com esse Update, sempre que nossa aplicação é inicializada no celular do usuário, ela busca nesse servidor se há alguma atualização pra ela, caso tenha, ela faz o download dessa atualização e executa o aplicativo, sem precisar passar pela loja para fazer a atualização.
 
+----
 Made with 💜 by Brenda.
