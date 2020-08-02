@@ -54,7 +54,7 @@ Em outras linguagens, que não possuem I/O não bloqueante, o que acontece é qu
 As bases de dados NoSQL são baseadas em JSON (JavaScript Object Notation), portanto a sua comunicação com o Node.js é muito intuitiva. Com isso você não precisará converter esses modelos de dados, pois os mesmos objetos JavaScript armazenados no seu banco de dados podem ser enviados para o front-end da sua aplicação sem nenhum tratamento ou conversão.
 
   >Um pequeno exemplo de um objeto JavaScript 
-  ```json 
+  ```
     { 
       name: Brenda, 
       sobrenome: Profiro 
