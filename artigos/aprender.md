@@ -5,7 +5,7 @@ Nós já ouvimos diversas pessoas dentro da comunidade falar sobre esse tema que
 Essa habilidade se torna tão fundamental dentro do nosso contexto porque no mercado de trabalho não existe um caminho traçado, cada profissional que deve traçar o seu próprio caminho. Portanto, nesse artigo eu irei abordar, do meu ponto de vista e baseado nas minhas experiências, como desenvolver essa habilidade tão fundamental e tão importante para nós.
 
 
-## Preciso aprender ago: Como filtrar onde estudar e como eu devo estudar?
+## Preciso aprender algo: Como filtrar onde estudar e como eu devo estudar?
 
 Uma frase muito legal que eu ouvi uma vez da Thaissa Candella, expert em Developer Relations (um cargo que fica muito mais legal em inglês, se me permite dizer), que define muito bem o nosso contexto atual é: "Não temos mais escassez de informação, não temos escassez de foco e atenção".
 
